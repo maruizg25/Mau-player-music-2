@@ -2,351 +2,421 @@
   {
     "file": "Charlie Jeer - Her Eyes.mp3",
     "title": "Her Eyes",
-    "artist": "Charlie Jeer"
+    "artist": "Charlie Jeer",
+    "genre": "Electronic"
   },
   {
     "file": "49th & Main - Self Sabotage.mp3",
     "title": "Self Sabotage",
-    "artist": "49th & Main"
+    "artist": "49th & Main",
+    "genre": "Electronic"
   },
   {
     "file": "PAWSA, The Adventures Of Stevie V - Dirty Cash (Money Talks).mp3",
     "title": "Dirty Cash (Money Talks)",
-    "artist": "PAWSA, The Adventures Of Stevie V"
+    "artist": "PAWSA, The Adventures Of Stevie V",
+    "genre": "Electronic"
   },
   {
     "file": "Lucas Dekker - A Fire Inside Of Me.mp3",
     "title": "A Fire Inside Of Me",
-    "artist": "Lucas Dekker"
+    "artist": "Lucas Dekker",
+    "genre": "Electronic"
   },
   {
     "file": "Gravagerz - Chihiro.mp3",
     "title": "Chihiro",
-    "artist": "Gravagerz"
+    "artist": "Gravagerz",
+    "genre": "Electronic"
   },
   {
     "file": "Retrowaves - Real Love.mp3",
     "title": "Real Love",
-    "artist": "Retrowaves"
+    "artist": "Retrowaves",
+    "genre": "Electronic"
   },
   {
     "file": "Emmit Fenn - The Chase.mp3",
     "title": "The Chase",
-    "artist": "Emmit Fenn"
+    "artist": "Emmit Fenn",
+    "genre": "Electronic"
   },
   {
     "file": "Rui Da Silva - Touch Me.mp3",
     "title": "Touch Me",
-    "artist": "Rui Da Silva"
+    "artist": "Rui Da Silva",
+    "genre": "Electronic"
   },
   {
     "file": "Jazzy, KILIMANJARO - No Bad Vibes.mp3",
     "title": "No Bad Vibes",
-    "artist": "Jazzy, KILIMANJARO"
+    "artist": "Jazzy, KILIMANJARO",
+    "genre": "Electronic"
   },
   {
     "file": "CamelPhat, Cristoph, Jem Cooke - Breathe.mp3",
     "title": "Breathe",
-    "artist": "CamelPhat, Cristoph, Jem Cooke"
+    "artist": "CamelPhat, Cristoph, Jem Cooke",
+    "genre": "Electronic"
   },
   {
     "file": "Tory Lanez - The Color Violet.mp3",
     "title": "The Color Violet",
-    "artist": "Tory Lanez"
+    "artist": "Tory Lanez",
+    "genre": "Latin"
   },
   {
     "file": "Boza - Hecha Pa' Mi.mp3",
     "title": "Hecha Pa' Mi",
-    "artist": "Boza"
+    "artist": "Boza",
+    "genre": "Latin"
   },
   {
     "file": "Jarabe De Palo - La flaca.mp3",
     "title": "La flaca",
-    "artist": "Jarabe De Palo"
+    "artist": "Jarabe De Palo",
+    "genre": "Latin"
   },
   {
     "file": "HUMBE - KINTSUGI.mp3",
     "title": "KINTSUGI",
-    "artist": "HUMBE"
+    "artist": "HUMBE",
+    "genre": "Latin"
   },
   {
     "file": "Gonzalo Ávila - Pedacito de Sol.mp3",
     "title": "Pedacito de Sol",
-    "artist": "Gonzalo Ávila"
+    "artist": "Gonzalo Ávila",
+    "genre": "Latin"
   },
   {
     "file": "Loreen - Tattoo.mp3",
     "title": "Tattoo",
-    "artist": "Loreen"
+    "artist": "Loreen",
+    "genre": "Latin"
   },
   {
     "file": "Quavo, Lana Del Rey - Tough.mp3",
     "title": "Tough",
-    "artist": "Quavo, Lana Del Rey"
+    "artist": "Quavo, Lana Del Rey",
+    "genre": "Latin"
   },
   {
     "file": "Paulo Londra - Me Tiene Mal.mp3",
     "title": "Me Tiene Mal",
-    "artist": "Paulo Londra"
+    "artist": "Paulo Londra",
+    "genre": "Latin"
   },
   {
     "file": "Rvssian, Rauw Alejandro, Ayra Starr - Santa.mp3",
     "title": "Santa",
-    "artist": "Rvssian, Rauw Alejandro, Ayra Starr"
+    "artist": "Rvssian, Rauw Alejandro, Ayra Starr",
+    "genre": "Latin"
   },
   {
     "file": "Teddy Swims - Lose Control.mp3",
     "title": "Lose Control",
-    "artist": "Teddy Swims"
+    "artist": "Teddy Swims",
+    "genre": "Latin"
   },
   {
     "file": "KURT - Sonreír - Versión Acústica.mp3",
     "title": "Sonreír - Versión Acústica",
-    "artist": "KURT"
+    "artist": "KURT",
+    "genre": "Latin"
   },
   {
     "file": "Kapo - UWAIE.mp3",
     "title": "UWAIE",
-    "artist": "Kapo"
+    "artist": "Kapo",
+    "genre": "Latin"
   },
   {
     "file": "3AM - Por Ti.mp3",
     "title": "Por Ti",
-    "artist": "3AM"
+    "artist": "3AM",
+    "genre": "Latin"
   },
   {
     "file": "Jósean Log - Beso.mp3",
     "title": "Beso",
-    "artist": "Jósean Log"
+    "artist": "Jósean Log",
+    "genre": "Latin"
   },
   {
     "file": "Vicente Garcia - Dulcito e Coco.mp3",
     "title": "Dulcito e Coco",
-    "artist": "Vicente Garcia"
+    "artist": "Vicente Garcia",
+    "genre": "Latin"
   },
   {
     "file": "Manuel Medrano - Donde Nadie Pueda Ir.mp3",
     "title": "Donde Nadie Pueda Ir",
-    "artist": "Manuel Medrano"
+    "artist": "Manuel Medrano",
+    "genre": "Latin"
   },
   {
     "file": "Manuel Medrano, Juliana - La Primera Vez.mp3",
     "title": "La Primera Vez",
-    "artist": "Manuel Medrano, Juliana"
+    "artist": "Manuel Medrano, Juliana",
+    "genre": "Latin"
   },
   {
     "file": "Cultura Profética - Ilegal.mp3",
     "title": "Ilegal",
-    "artist": "Cultura Profética"
+    "artist": "Cultura Profética",
+    "genre": "Latin"
   },
   {
     "file": "Manu Chao - Me Gustas Tu.mp3",
     "title": "Me Gustas Tu",
-    "artist": "Manu Chao"
+    "artist": "Manu Chao",
+    "genre": "Latin"
   },
   {
     "file": "d4vd - Here With Me.mp3",
     "title": "Here With Me",
-    "artist": "d4vd"
+    "artist": "d4vd",
+    "genre": "Latin"
   },
   {
     "file": "Jaze - Lunares.mp3",
     "title": "Lunares",
-    "artist": "Jaze"
+    "artist": "Jaze",
+    "genre": "Latin"
   },
   {
     "file": "Daft Punk - Something About Us.mp3",
     "title": "Something About Us",
-    "artist": "Daft Punk"
+    "artist": "Daft Punk",
+    "genre": "Latin"
   },
   {
     "file": "New West - Those Eyes.mp3",
     "title": "Those Eyes",
-    "artist": "New West"
+    "artist": "New West",
+    "genre": "Latin"
   },
   {
     "file": "Rosenfeld - Do It For Me.mp3",
     "title": "Do It For Me",
-    "artist": "Rosenfeld"
+    "artist": "Rosenfeld",
+    "genre": "Latin"
   },
   {
     "file": "Leon Leiden - Cielo.mp3",
     "title": "Cielo",
-    "artist": "Leon Leiden"
+    "artist": "Leon Leiden",
+    "genre": "Latin"
   },
   {
     "file": "Videoclub, Adèle Castillon, Mattyeux - Roi.mp3",
     "title": "Roi",
-    "artist": "Videoclub, Adèle Castillon, Mattyeux"
+    "artist": "Videoclub, Adèle Castillon, Mattyeux",
+    "genre": "Latin"
   },
   {
     "file": "Videoclub, Adèle Castillon, Mattyeux - Amour plastique.mp3",
     "title": "Amour plastique",
-    "artist": "Videoclub, Adèle Castillon, Mattyeux"
+    "artist": "Videoclub, Adèle Castillon, Mattyeux",
+    "genre": "Latin"
   },
   {
     "file": "Nsqk - Si En Tu Mente Estuve.mp3",
     "title": "Si En Tu Mente Estuve",
-    "artist": "Nsqk"
+    "artist": "Nsqk",
+    "genre": "Latin"
   },
   {
     "file": "Eladio Carrion, Rels B - Me Gustas Natural.mp3",
     "title": "Me Gustas Natural",
-    "artist": "Eladio Carrion, Rels B"
+    "artist": "Eladio Carrion, Rels B",
+    "genre": "Latin"
   },
   {
     "file": "DLG. - Inside of My Eyelids.mp3",
     "title": "Inside of My Eyelids",
-    "artist": "DLG."
+    "artist": "DLG.",
+    "genre": "Latin"
   },
   {
     "file": "Jammal Sánchez - Viendonos.mp3",
     "title": "Viendonos",
-    "artist": "Jammal Sánchez"
+    "artist": "Jammal Sánchez",
+    "genre": "Latin"
   },
   {
     "file": "E-Lhoy - AIRE.mp3",
     "title": "AIRE",
-    "artist": "E-Lhoy"
+    "artist": "E-Lhoy",
+    "genre": "Latin"
   },
   {
     "file": "León Larregui - Brillas.mp3",
     "title": "Brillas",
-    "artist": "León Larregui"
+    "artist": "León Larregui",
+    "genre": "Latin"
   },
   {
     "file": "Kings of Leon - Sex on Fire.mp3",
     "title": "Sex on Fire",
-    "artist": "Kings of Leon"
+    "artist": "Kings of Leon",
+    "genre": "Latin"
   },
   {
     "file": "Kings of Leon - Use Somebody.mp3",
     "title": "Use Somebody",
-    "artist": "Kings of Leon"
+    "artist": "Kings of Leon",
+    "genre": "Latin"
   },
   {
     "file": "Manuel Medrano, Natalia Jiménez - La mujer que bota fuego (feat. Natalia Jiménez).mp3",
     "title": "La mujer que bota fuego (feat. Natalia Jiménez)",
-    "artist": "Manuel Medrano, Natalia Jiménez"
+    "artist": "Manuel Medrano, Natalia Jiménez",
+    "genre": "Latin"
   },
   {
     "file": "Disclosure, Eliza Doolittle, Flume - You & Me - Flume Remix.mp3",
     "title": "You & Me - Flume Remix",
-    "artist": "Disclosure, Eliza Doolittle, Flume"
+    "artist": "Disclosure, Eliza Doolittle, Flume",
+    "genre": "Latin"
   },
   {
     "file": "Shawn Mendes - There's Nothing Holdin' Me Back.mp3",
     "title": "There's Nothing Holdin' Me Back",
-    "artist": "Shawn Mendes"
+    "artist": "Shawn Mendes",
+    "genre": "Latin"
   },
   {
     "file": "Rels B - SIN MIRAR LAS SEÑALES.mp3",
     "title": "SIN MIRAR LAS SEÑALES",
-    "artist": "Rels B"
+    "artist": "Rels B",
+    "genre": "Latin"
   },
   {
     "file": "Danny Ocean - Volare.mp3",
     "title": "Volare",
-    "artist": "Danny Ocean"
+    "artist": "Danny Ocean",
+    "genre": "Latin"
   },
   {
     "file": "Juanes - Es Por Ti.mp3",
     "title": "Es Por Ti",
-    "artist": "Juanes"
+    "artist": "Juanes",
+    "genre": "Latin"
   },
   {
     "file": "Juanes - A Dios Le Pido.mp3",
     "title": "A Dios Le Pido",
-    "artist": "Juanes"
+    "artist": "Juanes",
+    "genre": "Latin"
   },
   {
     "file": "Rels B - A Mí.mp3",
     "title": "A Mí",
-    "artist": "Rels B"
+    "artist": "Rels B",
+    "genre": "Latin"
   },
   {
     "file": "Paulo Londra, Lenny Tavárez - Nena Maldición (feat. Lenny Tavárez).mp3",
     "title": "Nena Maldición (feat. Lenny Tavárez)",
-    "artist": "Paulo Londra, Lenny Tavárez"
+    "artist": "Paulo Londra, Lenny Tavárez",
+    "genre": "Latin"
   },
   {
     "file": "Trueno - SOLO POR VOS.mp3",
     "title": "SOLO POR VOS",
-    "artist": "Trueno"
+    "artist": "Trueno",
+    "genre": "Latin"
   },
   {
     "file": "Foster The People - Imagination.mp3",
     "title": "Imagination",
-    "artist": "Foster The People"
+    "artist": "Foster The People",
+    "genre": "Latin"
   },
   {
     "file": "DJ Snake, Justin Bieber - Let Me Love You.mp3",
     "title": "Let Me Love You",
-    "artist": "DJ Snake, Justin Bieber"
+    "artist": "DJ Snake, Justin Bieber",
+    "genre": "Latin"
   },
   {
     "file": "Café Tacvba - Eres.mp3",
     "title": "Eres",
-    "artist": "Café Tacvba"
+    "artist": "Café Tacvba",
+    "genre": "Latin"
   },
   {
     "file": "Rels B - Love It.mp3",
     "title": "Love It",
-    "artist": "Rels B"
+    "artist": "Rels B",
+    "genre": "Latin"
   },
   {
     "file": "Counting Crows - Accidentally In Love - From Shrek 2 Soundtrack.mp3",
     "title": "Accidentally In Love - From \"Shrek 2\" Soundtrack",
-    "artist": "Counting Crows"
+    "artist": "Counting Crows",
+    "genre": "Latin"
   },
   {
     "file": "The Weeknd - Die For You.mp3",
     "title": "Die For You",
-    "artist": "The Weeknd"
+    "artist": "The Weeknd",
+    "genre": "Latin"
   },
   {
     "file": "SAIKO - COSAS QUE NO TE DIJE.mp3",
     "title": "COSAS QUE NO TE DIJE",
-    "artist": "SAIKO"
+    "artist": "SAIKO",
+    "genre": "Latin"
   },
   {
     "file": "Ovy On The Drums, Quevedo, Beéle - YO y TÚ.mp3",
     "title": "YO y TÚ",
-    "artist": "Ovy On The Drums, Quevedo, Beéle"
+    "artist": "Ovy On The Drums, Quevedo, Beéle",
+    "genre": "Latin"
   },
   {
     "file": "Leonel García - Para Empezar.mp3",
     "title": "Para Empezar",
-    "artist": "Leonel García"
+    "artist": "Leonel García",
+    "genre": "Latin"
   },
   {
     "file": "Jerry Di - Wapa.mp3",
     "title": "Wapa",
-    "artist": "Jerry Di"
+    "artist": "Jerry Di",
+    "genre": "Latin"
   },
   {
     "file": "Rauw Alejandro - Algo Mágico.mp3",
     "title": "Algo Mágico",
-    "artist": "Rauw Alejandro"
+    "artist": "Rauw Alejandro",
+    "genre": "Latin"
   },
   {
     "file": "Junior Scaife - Moment to Moment.mp3",
     "title": "Moment to Moment",
-    "artist": "Junior Scaife"
+    "artist": "Junior Scaife",
+    "genre": "Latin"
   },
   {
     "file": "Daniele - Sé Que Te Fallé.mp3",
     "title": "Sé Que Te Fallé",
-    "artist": "Daniele"
+    "artist": "Daniele",
+    "genre": "Latin"
   },
   {
     "file": "Teo Glacier - if this ain't love.mp3",
     "title": "if this ain't love",
-    "artist": "Teo Glacier"
+    "artist": "Teo Glacier",
+    "genre": "Latin"
   },
   {
     "file": "Coldplay - Yellow.mp3",
     "title": "Yellow",
-    "artist": "Coldplay"
+    "artist": "Coldplay",
+    "genre": "Latin"
   }
 ]
